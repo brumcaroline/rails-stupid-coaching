@@ -13,3 +13,14 @@
  *= require_tree .
  *= require_self
  */
+h1 {
+  color: rgba(220, 15, 118, 0.751);
+  font-family: monospace;
+}
+
+.my-container {
+  margin: 0 auto;
+  width: 500px;
+  text-align: center;
+  padding: 100px;
+}
